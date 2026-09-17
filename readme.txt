@@ -1,16 +1,92 @@
-=== Documentation ===
+=== Documentation - Build a Knowledge Base, Help Center or Wiki ===
 Contributors: itthinx
 Donate link: https://www.itthinx.com/plugins/documentation
-Tags: documentation, document, documents, wiki, woocommerce, manual, manuals, document management, documentation management
+Tags: documentation, document, documents, wiki, woocommerce
 Requires at least: 6.5
 Tested up to: 7.1
 Requires PHP: 7.4
 Stable tag: 2.0.0
 License: GPLv3
 
-A documentation management system.
+Build a powerful Knowledge Base, Help Center, Wiki, or Documentation Site.
 
 == Description ==
+
+Create documentation that people can actually use.
+
+Turn your site into a flexible Documentation Hub: Build a powerful Knowledge Base, Help Center, Wiki, or Documentation Site, directly in WordPress.
+
+Turn WordPress into a clear, organized home for your documentation, guides, manuals, FAQs, tutorials, and knowledge-base articles.
+
+Documentation gives you a dedicated area for managing documents — separate from your regular posts and pages. Organize information into logical sections, connect related content, and make it easy for visitors to find what they need.
+
+Use it to build:
+
+- A product or user manual
+- A customer help center
+- A searchable knowledge base
+- A company or team wiki
+- Developer documentation
+- A tutorial and how-to library
+- A documentation portal for a WordPress multisite network
+- Product documentation connected to WooCommerce
+
+### Organize content with confidence ###
+
+Create a documentation structure that grows with your site:
+
+- Arrange documents in parent-and-child hierarchies.
+- Organize documents with dedicated categories and tags.
+- Keep documentation separate from blog posts and standard pages.
+- Display document links using flexible widgets and shortcodes.
+- Add navigation that helps visitors move through related content.
+- Create documentation sections for different products, audiences, or topics.
+- Manage anything from a small FAQ to thousands of documentation pages.
+
+### Flexible navigation and display tools ###
+
+Documentation includes tools that help visitors browse your content naturally.
+
+- Document Hierarchy — display and navigate your documentation tree.
+- Document Children — show the child pages belonging to a document.
+- Documents — display selected groups or lists of documents.
+- Document Categories — provide links to documentation categories.
+- Documentation search form — add a search form to help visitors find relevant content.
+
+The functionality is available through shortcodes which can also be used in blocks.
+
+### Works with your WordPress site free from external providers or services ###
+
+Documentation is built on WordPress, so it fits naturally into an existing site while keeping your documentation content clearly separated and organized. It does not rely on any external providers or services.
+
+Use it on:
+
+- A standalone documentation website
+- Your existing company or product website
+- A documentation subsite in a multisite network
+- A customer support portal
+- A WooCommerce store
+
+With the optional [WooCommerce Documentation](https://www.itthinx.com/shop/woocommerce-documentation/) premium extension, you can connect documents to products and automatically link relevant documentation on product pages.
+
+### Extend your documentation when needed ###
+
+The plugin can be combined with other tools to add capabilities such as:
+
+- Live and advanced document search
+- Access control for private documentation
+- Content restrictions, including restrictions based on categories and tags
+- Context-sensitive widgets and blocks
+- Comments on documentation pages
+- Social sharing and metadata
+
+Start with the core documentation structure and add only the features your project needs. 
+
+### See it in action ###
+
+The developer’s own [documentation portal](https://docs.itthinx.com) is built with Documentation and demonstrates how it can be used to organize a substantial documentation site with multiple sections and pages. 
+
+### Technically spoken ... ###
 
 [Documentation](https://www.itthinx.com/plugins/documentation/) provides sound structures and tools to maintain a Documentation Management System based on WordPress.
 
@@ -18,32 +94,28 @@ Leveraging WordPress' framework and internal structures, the system provides a c
 
 Documents are complemented by their dedicated document categories and document tags, which allows to keep the documentation structures separate from the more blog-oriented posts or CMS-like pages.
 
-It can be used to build a dedicated documentation site, a subsite for documentation in a multisite network or other creative deployments.
+Simple to use, yet powerful. Leveraging WordPress to maintain even thousands of knowledge base articles and documentation pages.
 
-See our [documentation portal](https://docs.itthinx.com) for an example where we use the system to maintain a considerable amount of documentation for our tools.
+### Blocks and Shortcodes ###
 
-Simple to use, yet powerful to maintain even thousands of documentation pages.
-
-Documents can be attached to products in WooCommerce using [WooCommerce Documentation](https://www.itthinx.com/shop/woocommerce-documentation/).
-
-### Widgets ###
-
-The plugin provides several widgets that are used to display document links:
-
-- Document Hierarchy : facilitates navigating and viewing the document hierarchy
-- Document Children : displays links to children of documents
-- Documents : to display sets of document links
-- Document Categories : to display links to document categories
-
-### Shortcodes ###
-
-The following shortcodes are available:
+The following shortcodes are available which can be used in content and blocks:
 
 - [documentation_documents] Lists documents, also useful to list documents in a category.
 - [documentation_categories] Renders a list of links to the document categories.
 - [documentation_hierarchy] Provides a means to navigate the documentation structure, equivalent to the Document Hierarchy widget.
 - [documentation_list_children] Lists the children of a document like the Document Children widget.
 - [documentation_search_form] Renders a dynamic search form. Use [Search Live](https://wordpress.org/plugins/search-live/) for a more flexible search form.
+
+If you would like to sponsor the development or contribute code to include specific blocks, get in touch [here](https://www.itthinx.com) or use [GitHub](https://github.com/itthinx/documentation).
+
+### Classic Widgets ###
+
+The plugin provides several classic widgets that are used to display document links:
+
+- Document Hierarchy : facilitates navigating and viewing the document hierarchy
+- Document Children : displays links to children of documents
+- Documents : to display sets of document links
+- Document Categories : to display links to document categories
 
 ### Recommended Useful Additions ###
 
@@ -71,9 +143,9 @@ If you need help, have problems, want to leave feedback or want to provide const
 
 Please try to solve problems there before you rate this plugin or say it doesn't work. There goes a _lot_ of work into providing you with free quality plugins! Please appreciate that and help with your feedback. Thanks!
 
-#### Twitter ####
+#### Stay informed ####
 
-Follow [@itthinx](https://twitter.com/itthinx) on Twitter for updates on this and other plugins.
+Follow @itthinx on [GitHub](https://github.com/itthinx/), [X - Twitter](https://twitter.com/itthinx), [Reddit](https://www.reddit.com/r/itthinx/), [Mastodon](https://mastodon.social/@itthinx), [Rumble](https://rumble.com/user/itthinx), [YouTube](https://www.youtube.com/@itthinx_official) for news related to this and other tools.
 
 == Installation ==
 
